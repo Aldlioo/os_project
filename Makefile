@@ -1,3 +1,16 @@
+﻿
+# @file        Makefile
+# @description Bu Makefile, Linux işletim sistemi üzerinde çalışan temel bir kabuk (shell) uygulamasını 
+#              derlemek ve çalıştırmak için gerekli olan komutları tanımlamaktadır.
+# @course      İşletim Sistemleri
+# @assignment  Proje Ödevi
+# @date        26 Aralık 2024
+# @author      Awab KHALEFA - awab.daw@yahoo.com
+# @note        Bu projeyi, grup arkadaşlarımı bulamadığım için tek başıma tamamladım.
+# @github      https://github.com/Aldlioo/os_project
+ 
+
+
 # Compiler to use
 CC = gcc
 

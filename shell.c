@@ -1,3 +1,17 @@
+/**
+ * @file        Shell.c
+ * @description Bu dosya, Linux işletim sistemi üzerinde çalışan temel bir kabuk (shell) uygulamasının 
+ *              işlevlerini tanımlamaktadır. Fonksiyonlar arasında komut istemi görüntüleme, tekli komut 
+ *              yürütme, giriş/çıkış yönlendirme, arka plan işlemleri ve boru (pipe) işlemleri yer almaktadır.
+ * @course      İşletim Sistemleri
+ * @assignment  Proje Ödevi
+ * @date        26 Aralık 2024
+ * @author      Awab KHALEFA - awab.daw@yahoo.com
+ * @note        Bu projeyi, grup arkadaşlarımı bulamadığım için tek başıma tamamladım.
+ * @github      https://github.com/Aldlioo/os_project
+ */
+
+
 #include "shell.h"
 
 // Arka planda çalışan işlemler için sinyal işleyici
