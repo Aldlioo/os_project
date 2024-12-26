@@ -1,0 +1,7 @@
+Linux Shell Projesi
+
+Bu proje, temel bir Linux kabuğu uygulamasıdır. PDF'de belirtilen tüm komutlar başarıyla test edilmiştir.
+
+Kullanım:
+1. `make` ile derleyin ve çalıştırın.
+2. `make clean` ile temizleyin.
